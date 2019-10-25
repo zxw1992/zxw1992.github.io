@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 name: Xiwu Zhang
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-=======
-theme: jekyll-theme-minimal
->>>>>>> fc379ceb061ff97e0ae2ff69b1bbaba72c7f4ced
+
